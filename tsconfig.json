@@ -8,8 +8,9 @@
 		"forceConsistentCasingInFileNames": true,
 		"baseUrl": "./lib",
     "declaration": true,
+		"declarationDir": "types",
     "outDir": "./dist",
-    "rootDir": "./lib",
+    "rootDir": "./lib/vs/base",
 		"lib": [
 			"ES2015",
 			"ES2017.String",
